@@ -1,0 +1,22 @@
+# Compiled files
+/target/
+
+# Dependency directories
+Cargo.lock
+Cargo.toml.orig
+Cargo.toml.bkp
+
+# Build artifacts
+*.rs.bk
+CACHEDIR.TAG
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Rust build artifacts
+**/*.rs.bk
+**/target/
+**/Cargo.lock
+**/Cargo.toml.orig
+**/Cargo.toml.bkp
