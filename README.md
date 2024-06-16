@@ -13,3 +13,4 @@ user    0m7.217s
 sys     0m0.010s
 myPc:~/mandelbrot-generator/mandelbrot_gen$
 ```
+![Alt text](/mandelbrot_gen/mandelbrot_2.png)
